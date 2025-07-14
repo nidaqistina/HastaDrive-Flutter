@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1082402875545",
+    "project_id": "hastadrive-d6ff5",
+    "storage_bucket": "hastadrive-d6ff5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082402875545:android:61a5d8772dc1b8ca8e7008",
+        "android_client_info": {
+          "package_name": "com.hasta.hastadrive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHWXzixGlj7zErjurNlcJXzfJloPAIwww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+package com.hasta.hastadrive
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
